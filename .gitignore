@@ -20,3 +20,10 @@ Thumbs.db
 
 # Environment
 .env
+# Temporary folders
+uploads/
+outputs/
+
+# If they are inside backend
+backend/uploads/
+backend/outputs/
